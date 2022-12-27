@@ -1,0 +1,11 @@
+
+t
+java:S14888"^Immediately return this expression instead of assigning it to the temporary variable "result".(›Éô•
+@
+java:S1197-"*Move the array designators [] to the type.(®–‰ž
+V	java:S125,"<This block of commented-out lines of code should be removed.(ÔÏ¯—ÿÿÿÿÿ
+@
+java:S11971"*Move the array designators [] to the type.(º£û¤
+t
+java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ï¼Ûüÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Ø‹ˆ£ùÿÿÿÿ

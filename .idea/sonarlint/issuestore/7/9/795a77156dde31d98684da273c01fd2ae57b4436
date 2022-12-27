@@ -1,0 +1,16 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal " bytes" 7 times.(­ùÌ´øÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal " bits & " 7 times.(­ùÌ´øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê“ôëùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ùÌ´øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¬§™…øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìÖªØúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÿÍ¦ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã³æ“øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äıÂòúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™„¼‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(È„³æ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
